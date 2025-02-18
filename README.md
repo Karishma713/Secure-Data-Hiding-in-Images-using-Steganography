@@ -70,4 +70,9 @@ Place your input image in the images/ folder.
 * 📹 Video Steganography – Extend functionality to hide messages in videos.
 * 📂 Web Interface – Build a web-based GUI using Flask or Django.
 
+# SCREEN SHOTS
+![s-1]()
+![s-2](out-2.png)
+
+
 # THANK U ❤️
