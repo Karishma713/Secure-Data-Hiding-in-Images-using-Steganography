@@ -71,7 +71,7 @@ Place your input image in the images/ folder.
 * 📂 Web Interface – Build a web-based GUI using Flask or Django.
 
 # SCREEN SHOTS
-![s-1]()
+![s-1](Final_project/rad-rose-petals.jpg)
 ![s-2](out-2.png)
 
 
